@@ -85,8 +85,7 @@ python evaluate.py
 ## 👩‍💻 Authors
 - Sonali Gupta  
 - Disha Rani  
-- Sparsh Agarwal  
-- Ashish Bajaj  
+  
 
 ---
 
