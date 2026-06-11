@@ -1,4 +1,4 @@
-# 🧠 Mind-Wander: EEG-Based Attention State Detection using Dual-Stream Deep Learning
+# 🧠 Mind-Wander :: EEG-Based Attention State Detection using Dual-Stream Deep Learning
 
 ## 📌 Overview
 **Mind-Wander** is a deep learning framework designed to detect **mind-wandering (MW)** vs **on-task (OT)** cognitive states using EEG signals.
